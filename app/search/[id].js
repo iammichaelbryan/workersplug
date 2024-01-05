@@ -28,7 +28,7 @@ console.log('Query:', params.id);
                 method: "GET",
                 url: `https://jsearch.p.rapidapi.com/search`,
                 headers: {
-                    "X-RapidAPI-Key": 'c5bb3923c5mshbd3449c79fbcd1fp1554c2jsndadf20d29365',
+                    "X-RapidAPI-Key": '',
                     "X-RapidAPI-Host": "jsearch.p.rapidapi.com",
                 },
                 params: {
