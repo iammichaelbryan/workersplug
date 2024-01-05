@@ -8,6 +8,22 @@
       "expo-router"
     ],
     "name": "internsplug",
-    "slug": "internsplug"
+    "slug": "internsplug",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "d23bb8d7-3b3d-4132-ba30-47305831a0ed"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/d23bb8d7-3b3d-4132-ba30-47305831a0ed"
+    },
+    "android": {},
+    "ios": {}
   }
 }
